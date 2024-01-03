@@ -6,11 +6,10 @@ Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei 
 
 ### ✨ Curiosidades
 
-- Sou fã de Harry Potter e MCU.
-- Gosto de fazer trilhas e correr.
-- Até o momento sei cuidar de "Prantas".
+- Sou fã de animes.
+- Gosto de passar meu tempo livre jogando com meus amigos.
 - As vezes faço trocadilhos / piadas ruins.
-- Comida preferida: Pudim e pão com manteiga na chapa.
+- Comida preferida: Churros de doce de leite.
 
 ## 📋 Skills
 
