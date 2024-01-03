@@ -20,7 +20,7 @@ Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei-
 
 ## 📫 Contatos
 
-![Likedin](https://img.shields.io/badge/-%230A66C2?style=social&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdouglasjosebarboza%2F)
+[![Likedin](https://img.shields.io/badge/-%230A66C2?style=social&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdouglasjosebarboza%2F)](https://www.linkedin.com/in/douglasjosebarboza/)
 ![Instagram](https://img.shields.io/badge/-%23E4405F?style=social&logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilenty.jb%2F)
 ![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230A0A0A?style=social&logo=devdotto&labelColor=black&link=https%3A%2F%2Fdouglasjosebarboza.vercel.app%2F)
 
