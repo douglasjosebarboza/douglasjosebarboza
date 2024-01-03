@@ -1,8 +1,8 @@
 # Olá amigos 👋
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="[.github/image.png](https://cdn-icons-png.flaticon.com/512/10169/10169719.png)" width="300"/> 
 
-Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei onde faço bacharelado em Ciência da Computação pela UFSJ.
+Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei-MG onde faço bacharelado em Ciência da Computação pela UFSJ.
 
 ### ✨ Curiosidades
 
