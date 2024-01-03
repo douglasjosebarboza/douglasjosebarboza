@@ -13,16 +13,16 @@ Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei-
 
 ## 📋 Skills
 
-![Next JS](https://img.shields.io/badge/Next%20JS-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=CCCCCC)
-![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB?style=for-the-badge&logo=react&labelColor=CCCCCC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=CCCCCC)
-![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=CCCCCC)
+![Next JS](https://img.shields.io/badge/Next%20JS-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black)
+![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
+![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 
 ## 📫 Contatos
 
-![Likedin](https://img.shields.io/badge/-%230A66C2?style=social&logo=linkedin&labelColor=CCCCCC&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdouglasjosebarboza%2F)
-![Instagram](https://img.shields.io/badge/-%23E4405F?style=social&logo=instagram&labelColor=CCCCCC&link=https%3A%2F%2Fwww.instagram.com%2Fsilenty.jb%2F)
-![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230A0A0A?style=social&logo=devdotto&labelColor=CCCCCC&link=https%3A%2F%2Fdouglasjosebarboza.vercel.app%2F)
+![Likedin](https://img.shields.io/badge/-%230A66C2?style=social&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdouglasjosebarboza%2F)
+![Instagram](https://img.shields.io/badge/-%23E4405F?style=social&logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilenty.jb%2F)
+![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230A0A0A?style=social&logo=devdotto&labelColor=black&link=https%3A%2F%2Fdouglasjosebarboza.vercel.app%2F)
 
 
 ![douglasjosebarboza github stats](https://github-readme-stats.vercel.app/api?username=douglasjosebarboza&hide=[%22issues%22]&show_icons=true&theme=github_dark)
