@@ -2,7 +2,7 @@
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/10169/10169719.png" width="200"/> 
 
-Me chamo Douglas, tenho 23 anos e atualmente tenho vivido em São João del Rei-MG onde faço bacharelado em Ciência da Computação pela UFSJ.
+Me chamo Douglas, tenho 24 anos e atualmente tenho vivido em São João del Rei-MG onde faço bacharelado em Ciência da Computação pela UFSJ.
 
 ### ✨ Curiosidades
 
