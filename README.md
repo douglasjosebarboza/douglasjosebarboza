@@ -13,18 +13,14 @@ Me chamo Douglas, tenho 25 anos e atualmente tenho vivido em São João del Rei-
 
 ## 📋 Skills
 
-[![Next JS](https://img.shields.io/badge/Next%20JS-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black)](https://nextjs.org/)
-[![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)](https://tailwindcss.com/)
-[![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next JS" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="35" alt="React JS" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind CSS" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" /></a>
 
 ## 📫 Contatos
 
-<a href="https://www.linkedin.com/in/douglasjosebarboza/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/douglasjbarboza">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-</a>
+<a href="https://www.linkedin.com/in/douglasjosebarboza/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/douglasjbarboza"><img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" /></a>
 
 ![douglasjosebarboza github stats](https://github-stats-extended.vercel.app/api?username=douglasjosebarboza&hide=[%22issues%22]&show_icons=true&theme=github_dark)
