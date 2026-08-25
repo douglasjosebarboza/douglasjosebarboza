@@ -20,7 +20,11 @@ Me chamo Douglas, tenho 25 anos e atualmente tenho vivido em São João del Rei-
 
 ## 📫 Contatos
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/douglasjosebarboza/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/douglasjbarboza)
+<a href="https://www.linkedin.com/in/douglasjosebarboza/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/douglasjbarboza">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+</a>
 
 ![douglasjosebarboza github stats](https://github-stats-extended.vercel.app/api?username=douglasjosebarboza&hide=[%22issues%22]&show_icons=true&theme=github_dark)
