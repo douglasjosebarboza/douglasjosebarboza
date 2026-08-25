@@ -2,7 +2,7 @@
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/10169/10169719.png" width="200"/> 
 
-Me chamo Douglas, tenho 24 anos e atualmente tenho vivido em São João del Rei-MG onde faço bacharelado em Ciência da Computação pela UFSJ.
+Me chamo Douglas, tenho 25 anos e atualmente tenho vivido em São João del Rei-MG onde faço bacharelado em Ciência da Computação pela UFSJ.
 
 ### ✨ Curiosidades
 
@@ -21,8 +21,6 @@ Me chamo Douglas, tenho 24 anos e atualmente tenho vivido em São João del Rei-
 ## 📫 Contatos
 
 [![Likedin](https://img.shields.io/badge/-%230A66C2?style=social&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdouglasjosebarboza%2F)](https://www.linkedin.com/in/douglasjosebarboza/)
-[![Instagram](https://img.shields.io/badge/-%23E4405F?style=social&logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilenty.jb%2F)](https://www.instagram.com/silenty.jb/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230A0A0A?style=social&logo=devdotto&labelColor=black&link=https%3A%2F%2Fdouglasjosebarboza.vercel.app%2F)](https://douglasjosebarboza.vercel.app/)
-
+[![Instagram](https://img.shields.io/badge/-%23E4405F?style=social&logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilenty.jb%2F)](https://www.instagram.com/douglasjbarboza)
 
 ![douglasjosebarboza github stats](https://github-readme-stats.vercel.app/api?username=douglasjosebarboza&hide=[%22issues%22]&show_icons=true&theme=github_dark)
